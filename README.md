@@ -13,3 +13,5 @@ Count++;
 System.out.println("The count of odd number are:”+count);
 }
 }
+Output 
+The count of odd numbers is:50
